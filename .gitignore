@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Optional: Grunt log file
+logs/
+log-debug.log
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Editor directories and files
+.vscode/
+.idea/
+
+# Optional: Environment configuration
+.env
+
+# Optional: Ignore build output
+build/
+dist/
+out/
+
+# Optional: Ignore local configuration
+config/local.json
+
+# Optional: Ignore coverage output
+coverage/
+
+# Optional: Ignore TypeScript build output
+*.tsbuildinfo
+
+# Optional: Ignore Yarn integrity file
+.yarn-integrity
+
+# Optional: Ignore npm debug logs
+npm-debug.log*
